@@ -4,18 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        for i in range(len(nums)):
-            index = abs(nums[i]) - 1
-        
-            if nums[index] > 0:
-                nums[index] = -nums[index]
-
-        result = []
-
-        for i in range(len(nums)):
-            if nums[i] > 0:
-                result.append(i + 1)
-
-        return result
-
+        for num in nums:
+            nums[abs(num)-1] *= -1 if nums[abs(num)-1] > 0 else 1
+        return [i+1 for i, x in enumerate(nums) if x > 0]
         
