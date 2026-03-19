@@ -5,15 +5,15 @@ class Solution(object):
         :rtype: bool
         """
         
-        i=0
+        a=0
         j= len(s)-1
         
-        while(i<j) :
-            left=s[i]
+        while(a<j) :
+            left=s[a]
             right=s[j]
 
-            if not s[i].isalnum():
-                i=i+1
+            if not s[a].isalnum():
+                a=a+1
                 continue
             
             if not s[j].isalnum():
@@ -23,7 +23,7 @@ class Solution(object):
             if left.lower() != right.lower():
                 return False
             
-            i=i+1
+            a=a+1
             j=j-1
         
         return True
