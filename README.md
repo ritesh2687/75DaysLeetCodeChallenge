@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
