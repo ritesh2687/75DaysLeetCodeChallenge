@@ -10,24 +10,24 @@ class Solution(object):
         :type l2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        dummy = ListNode(0)   
-        current = dummy
-        carry = 0
+        f = ListNode(0)   
+        cur = f
+        car = 0
 
-        while l1 or l2 or carry:
+        while l1 or l2 or car:
             val1 = l1.val if l1 else 0
             val2 = l2.val if l2 else 0
 
-            total = val1 + val2 + carry
-            carry = total // 10
-            digit = total % 10
+            t = val1 + val2 + car
+            car = t // 10
+            dig = t % 10
 
-            current.next = ListNode(digit)
-            current = current.next
+            cur.next = ListNode(dig)
+            cur = cur.next
 
             if l1:
                 l1 = l1.next
             if l2:
                 l2 = l2.next
 
-        return dummy.next        
+        return f.next        
