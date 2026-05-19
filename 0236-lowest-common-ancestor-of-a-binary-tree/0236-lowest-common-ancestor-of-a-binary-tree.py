@@ -16,11 +16,11 @@ class Solution(object):
         if not root or root == p or root == q:
             return root
 
-        left = self.lowestCommonAncestor(root.left, p, q)
-        right = self.lowestCommonAncestor(root.right, p, q)
+        l = self.lowestCommonAncestor(root.left, p, q)
+        r = self.lowestCommonAncestor(root.right, p, q)
 
-        if left and right:
+        if l and r:
             return root
 
-        return left if left else right
+        return l if l else r
         
