@@ -5,11 +5,13 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        heap = nums[:k]
-        heapq.heapify(heap)
+        # heap = nums[:k]
+        # heapq.heapify(heap)
 
-        for num in nums[k:]:
-            if num > heap[0]:
-                heapq.heappushpop(heap, num)
+        # for num in nums[k:]:
+        #     if num > heap[0]:
+        #         heapq.heappushpop(heap, num)
 
-        return heap[0]    
+        # return heap[0]    
+        nums.sort()
+        return nums[-k]
