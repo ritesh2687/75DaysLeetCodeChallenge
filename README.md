@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0731-my-calendar-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0731-my-calendar-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0731-my-calendar-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0731-my-calendar-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 ## Queue
 |  |
 | ------- |
@@ -368,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
