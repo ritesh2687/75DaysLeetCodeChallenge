@@ -7,11 +7,11 @@ class Solution(object):
         if not grid:
             return 0
 
-        rows, cols = len(grid), len(grid[0])
+        row_s, cols = len(grid), len(grid[0])
         islands = 0
 
         def dfs(r, c):
-            if r < 0 or c < 0 or r >= rows or c >= cols or grid[r][c] == "0":
+            if r < 0 or c < 0 or r >= row_s or c >= cols or grid[r][c] == "0":
                 return
 
             grid[r][c] = "0"
@@ -21,7 +21,7 @@ class Solution(object):
             dfs(r, c + 1)
             dfs(r, c - 1)
 
-        for r in range(rows):
+        for r in range(row_s):
             for c in range(cols):
                 if grid[r][c] == "1":
                     islands += 1
