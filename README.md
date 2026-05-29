@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Sorting
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
