@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
