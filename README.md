@@ -466,4 +466,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
