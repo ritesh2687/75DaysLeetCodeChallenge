@@ -462,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
