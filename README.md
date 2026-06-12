@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Monotonic Stack
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
 |  |
