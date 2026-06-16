@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -529,4 +530,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [3612-process-string-with-special-operations-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
