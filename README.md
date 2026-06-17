@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3343-count-number-of-balanced-permutations](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
 |  |
 | ------- |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 ## Combinatorics
 |  |
 | ------- |
