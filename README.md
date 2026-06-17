@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [3343-count-number-of-balanced-permutations](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
+| [3343-count-number-of-balanced-permutations](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sliding Window
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3343-count-number-of-balanced-permutations](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Monotonic Stack
@@ -531,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3343-count-number-of-balanced-permutations](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
