@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Hash Table
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3343-count-number-of-balanced-permutations](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -543,4 +546,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3343-count-number-of-balanced-permutations](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
+## Geometry
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Number Theory
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
