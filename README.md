@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 ## Data Stream
 |  |
