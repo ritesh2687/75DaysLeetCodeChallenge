@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1732-find-the-highest-altitude](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1732-find-the-highest-altitude](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
