@@ -10,31 +10,12 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        vector<TreeNode*> pathP;
-        path(root, p, pathP);
-        vector<TreeNode*> pathQ;
-        path(root, q, pathQ);
-        TreeNode* ans = nullptr;
-        int i = 0;
-        while (i < pathP.size() && i < pathQ.size() && pathP[i] == pathQ[i]) {
-            ans = pathP[i];
-            i++;
-        }
-        return ans;
-    }
-    bool path(TreeNode* root, TreeNode* target, vector<TreeNode*>& curr) {
-        if (root == nullptr)
-            return false;
+        if (root == p || root == q || root == nullptr) return root;
 
-        curr.push_back(root);
-        if (root == target) {
-            return true;
-        }
-
-        if (path(root->left, target, curr) || path(root->right, target, curr))
-            return true;
-
-        curr.pop_back();
-        return false;
+        TreeNode* l = lowestCommonAncestor(root->left,p,q);
+        TreeNode* r = lowestCommonAncestor(root->right,p,q);
+        if (l == nullptr) return r;
+        else if (r == nullptr) return l;;
+        return root;
     }
 };
