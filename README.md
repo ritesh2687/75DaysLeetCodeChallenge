@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0969-pancake-sorting](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
