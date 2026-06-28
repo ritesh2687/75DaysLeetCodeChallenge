@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1732-find-the-highest-altitude](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1840-maximum-building-height](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Hash Table
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0969-pancake-sorting](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Dynamic Programming
