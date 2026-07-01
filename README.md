@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
