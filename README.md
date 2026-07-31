@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3343-count-number-of-balanced-permutations](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0923-3sum-with-multiplicity](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [1189-maximum-number-of-balloons](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
