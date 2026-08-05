@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
