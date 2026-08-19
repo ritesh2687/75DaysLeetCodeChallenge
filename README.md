@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1386-cinema-seat-allocation](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [1009-complement-of-base-10-integer](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
