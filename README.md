@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1732-find-the-highest-altitude](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1406-stone-game-iii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3343-count-number-of-balanced-permutations](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3343-count-number-of-balanced-permutations) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -830,13 +834,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
