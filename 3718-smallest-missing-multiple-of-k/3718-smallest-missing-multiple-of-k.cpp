@@ -20,6 +20,30 @@ public:
         }
 
         return (min+1)*k; 
+
+
+
+
+
+
+    //     sort(nums.begin(), nums.end());
+    //     int target = k;
+        
+    //     for (int num : nums) {
+    //         if (num == target) {
+    //             target += k;
+    //         }
+    //     }
+        
+    //     return target;
+
       
     }
+
+
+
+
+
+
+
 };
