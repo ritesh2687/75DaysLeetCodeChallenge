@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0784-letter-case-permutation](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
