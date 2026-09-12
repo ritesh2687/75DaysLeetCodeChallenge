@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
