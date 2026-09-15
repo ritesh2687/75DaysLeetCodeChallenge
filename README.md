@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
