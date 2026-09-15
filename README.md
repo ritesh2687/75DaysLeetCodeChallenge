@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
