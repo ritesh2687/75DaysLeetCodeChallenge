@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1840-maximum-building-height](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2784-check-if-array-is-good](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
