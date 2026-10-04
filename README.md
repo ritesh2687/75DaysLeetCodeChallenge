@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0969-pancake-sorting](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
@@ -976,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
