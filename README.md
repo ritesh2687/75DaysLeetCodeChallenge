@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0923-3sum-with-multiplicity](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [1189-maximum-number-of-balloons](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -817,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -910,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
