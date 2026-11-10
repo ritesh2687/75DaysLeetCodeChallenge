@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2409-count-days-spent-together](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2409-count-days-spent-together) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
+| [1903-largest-odd-number-in-string](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh2687/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
